@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "878474953171",
+    "firebase_url": "https://aikidopassport.firebaseio.com",
+    "project_id": "aikidopassport",
+    "storage_bucket": "aikidopassport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878474953171:android:71dd461df424ab7fb82f26",
+        "android_client_info": {
+          "package_name": "agenda.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878474953171-2fclugosi6g4e5femqnlv2or8mlbbil1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqkZbXCMISTUNZo8Rs-MN3YQb63sFxaKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878474953171-2fclugosi6g4e5femqnlv2or8mlbbil1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
